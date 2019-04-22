@@ -7,6 +7,7 @@ Issue tracker is **ONLY** used for reporting bugs. New features should be discus
 
 ## Current Behavior
 <!--- Tell us what happens instead of the expected behavior -->
+Thông báo lỗi không rõ ràng
 
 ## Possible Solution
 <!--- Not obligatory, but suggest a fix/reason for the bug, -->
@@ -27,6 +28,7 @@ Issue tracker is **ONLY** used for reporting bugs. New features should be discus
 
 ## Detailed Description
 <!--- Provide a detailed description of the change or addition you are proposing -->
+Thông báo lỗi [object Object] khi endDate <= date hiện tại (Editorial Card - Writer)
 
 ## Possible Implementation
 <!--- Not obligatory, but suggest an idea for implementing addition or change -->
